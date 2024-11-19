@@ -16,7 +16,7 @@ In our desktop/server environment, we can create a VM using several ways:
 
 VM Specification:
 - One VM with 4 Cpu and 4GB RAM
-- Two VM with 2 Cpu and 3Gb RAM
+- Two VM with 2 Cpu and 3GB RAM
 
 
 ## VirtualBox

@@ -1,11 +1,11 @@
 **Table of Contents:**
-- [1. IEE CS Bangladesh Chapter Symposium 2024 : mastering-orchestration-with-kubernetes](#1-iee-cs-bangladesh-chapter-symposium-2024--mastering-orchestration-with-kubernetes)
+- [1. IEEE CS Bangladesh Chapter Symposium 2024 : mastering-orchestration-with-kubernetes](#1-ieee-cs-bangladesh-chapter-symposium-2024--mastering-orchestration-with-kubernetes)
   - [1.1. Workshop Information](#11-workshop-information)
   - [1.2. Workshop Lab Setup Prerequisite](#12-workshop-lab-setup-prerequisite)
 - [2. References](#2-references)
 
 
-# 1. IEE CS Bangladesh Chapter Symposium 2024 : mastering-orchestration-with-kubernetes
+# 1. IEEE CS Bangladesh Chapter Symposium 2024 : mastering-orchestration-with-kubernetes
 
 ## 1.1. Workshop Information
 - Workshop Title: "Build Your Own Cloud Platform: Mastering Orchestration with Kubernetes"
