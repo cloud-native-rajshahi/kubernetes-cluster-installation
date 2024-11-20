@@ -2,7 +2,7 @@
 
 There are several ways to build a Kubernetes cluster. First, we require a couple of Virtual Machines (VMs) or Physical Servers. It's normally feasible to arrange a couple of VMs for this workshop. 
 
-![](../../docs/images/vm-provider-stack.jpg)
+![](../../docs/images/vm-provider-stack-v2.jpg)
 
 
 In our desktop/server environment, we can create a VM using several ways:
