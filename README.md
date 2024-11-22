@@ -27,7 +27,7 @@
 ## 1.4. Example Applications
 
 - [Exmaple Applications Home](./example-applications/README.md)
-
+- [Kubernetes Cheat Sheet](./docs/kubernetes-cheatsheet.md)
 
 
 
