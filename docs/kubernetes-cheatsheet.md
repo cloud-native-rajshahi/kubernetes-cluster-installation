@@ -27,6 +27,8 @@ EOF
 
 ```bash
 # ~/.bashrc # add autocomplete permanently to your bash shell.
+
+cat <<EOF>~/.vimrc
 source <(kubectl completion bash)
 complete -F __start_kubectl k
 EOF
@@ -46,7 +48,10 @@ alias kx='f() { [ "$1" ] && kubectl config use-context $1 || kubectl config curr
 alias kn='f() { [ "$1" ] && kubectl config set-context --current --namespace $1 || kubectl config view --minify | grep namespace | cut -d" " -f6 ; } ; f'
 
 export do="--dry-run=client -o yaml"
+EOF
+```
 
+```bash
 source kalias.sh
 ```
 
