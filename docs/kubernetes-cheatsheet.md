@@ -26,12 +26,11 @@ EOF
 ## 1.2. Kubectl autocomplete
 
 ```bash
-# ~/.bashrc # add autocomplete permanently to your bash shell.
+# vim ~/.bashrc # add autocomplete permanently to your bash shell.
 
-cat <<EOF>~/.vimrc
 source <(kubectl completion bash)
 complete -F __start_kubectl k
-EOF
+
 ```
 
 ## 1.3. Environment variable setup
