@@ -16,6 +16,7 @@
 
 ## 1.2. Tutorial
 - [YAML Tutorial](./yaml-tutorial/README.md)
+- [Kubernetes Cheat Sheet](kubernetes-cheatsheet.md)
 
 
 ## 1.3. Example Kubernetes Resource, Objects and Applications 
